@@ -1,12 +1,12 @@
 # Distance Between Two Points Calculator
 
-## Description
+## Brief description
 
 This program calculates the distance between two points (x1, y1) and (x2, y2) on a 2D plane
 
 using input values and a math library.
 
-## How to Run
+## How the code runs in order to get its answer
 
 1. Open the program file in VS Code, Replit, or Google Colab.
 
@@ -40,9 +40,11 @@ The distance between the two points is: 7.07
 
 ## Author
 
-Name: Zacchary Jhay T. Arconado
-      Albert Antonie C. Talosig
-      Zack Andreu V. Questin
+Name: Zacchary Jhay T. Arconado,
+      Albert Antonie C. Talosig,
+      Zack Andrei V. Questin,
       Jamir Andrei V. Gelera
 
 Section: 8-Camia
+
+## This Formula is for finding the distance of two points with accuracy, further lessening the time users in doing with this simple formula.
